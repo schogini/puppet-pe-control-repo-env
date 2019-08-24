@@ -18,4 +18,4 @@ forge 'https://forge.puppet.com'
 
 mod 'puppetlabs/motd',
    :git   => 'https://github.com/schogini/puppet-motd.git',
-   :branch => 'production'
+   :branch => 'development'
