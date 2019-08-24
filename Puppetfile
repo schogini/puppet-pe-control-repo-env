@@ -16,6 +16,6 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-mod 'puppetlabs/motd'
+mod 'puppetlabs/motd',
    :git   => 'https://github.com/schogini/puppet-motd.git',
    :branch => 'production'
